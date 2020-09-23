@@ -1,0 +1,12 @@
+frmServer = 0, 0, 404, 449, , 176, 176, 580, 625, C
+cServer = 220, 220, 624, 669, 
+modGlobals = 22, 22, 426, 471, 
+modEmail = 132, 132, 547, 580, 
+frmDispCap = 176, 176, 661, 624, , 154, 154, 639, 600, C
+Mouse = 0, 0, 0, 0, C
+Sound_Engine = 44, 44, 517, 492, 
+modStartProc = 0, 0, 467, 446, 
+SystemInfo = 0, 0, 470, 446, 
+modWriteDT = 0, 0, 468, 446, 
+MTaskList = 0, 0, 0, 0, C
+mdlRegistry = 0, 0, 0, 0, C

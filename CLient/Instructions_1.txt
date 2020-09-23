@@ -1,0 +1,11 @@
+ Upload the button to the same directory where your homepage is.
+Copy the code below and paste it into your homepage and you're done.
+
+
+
+<a href="http://nonags.com/">
+<img src="nonags.gif" width=88 height=31 border=0 alt="Nonags">
+</a>
+
+
+
