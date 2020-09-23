@@ -1,0 +1,216 @@
+
+                 ;********************************************
+                 ;******************************************** 
+                 ;*** DO NOT ALTER THIS FILE IN ANY WAY!!! ***
+                 ;***           JeriK0, 1999               ***
+                 ;******************************************** 
+                 ;********************************************
+
+
+---Start Connect  
+  <CONNECTING TO A REMOTE HOST>
+
+  To connect to a remote computer you must do the following:
+
+  1.> Choose File | Setup IP.
+  2.> Fill in the Port and Host IP Address or Computer name.
+  3.> Check the "Save" Box to save the Settings, if needed.
+  4.> Click OK to exit the setup.
+  5.> Go to Tasks | Connect.
+
+
+
+
+
+                     Help Provider Ver.1.00 JeriK0, 1999
+---End Connect
+---Start Setup
+  <SETTING THE IP AND PORT NUMBERS>
+
+  IP Setup..... This must be done before any connection is possible:
+
+  1.> From the main interface, go to FIle | Setup IP.
+  2.> Fill in the Port setting and Computer name or IP Address
+      of the host machine.
+
+
+
+
+                     Help Provider Ver.1.00 JeriK0, 1999
+---End Setup
+---Start Browse_Save
+  <SAVING A LOADED "PATHFILE" FILE>
+
+  A list of file paths may be saved, to quiken path access time:
+
+
+  1.> Once the drive has been scanned, and a list of files are
+        displayed, you will be prompted to save the paths.
+  2.> Follow the instructions, name the file accordingly and save.
+  
+  To manually save the files:
+
+  1.> From the Path Browser, choose File|Save As.
+  2.> Select the Directory you wish to save to, click save.
+ 
+
+
+
+                     Help Provider Ver.1.00 JeriK0, 1999
+---End Browse_Save  
+---Start Load_Saved_Paths
+  <LOADING A SAVED "PATHFILE" FILE>
+
+  Loading in a previously saved pathfile, means not having
+  to re-query the users drive:
+
+  1.> From the Path Browser, choose File|Load.
+  2.> Locate and select the file you wish to load.
+  3.> click OK
+ 
+
+
+
+                     Help Provider Ver.1.00 JeriK0, 1999
+---End Load_Saved_Paths
+---Start Search
+  <SEARCHING THE USERS HARD DRIVE>
+
+  If you know what you want... the best way to get it is 
+  to perform a file search on the USERS hard drive and return
+  the results:
+
+  1.> From the Path Browser choose File|Search Users Files.
+  2.> In the search box, input the name of the file and the
+        drive you wish to search.
+  3.> Click the SEARCH button.
+  4.> A list of matches will be returned at the bottom once the
+        search has been completed.
+  5.> Select the needed path, then click the task that best
+        suits your needs.  
+
+
+
+                     Help Provider Ver.1.00 JeriK0, 1999
+---End Search
+---Start Query
+  <QUERYING A USERS DRIVE TO RETURN A LIST OF FILES>
+
+  You can scan a users hard drive and return a list of ALL
+  their files:
+
+  1.> From the Path Browser choose File|Browse Users Files.
+  2.> Enter the letter of the drive you want to query.
+  3.> Once the host computer has been scanned, a list of all
+        files will be returned and listed in the Path Browser.
+
+
+
+                     Help Provider Ver.1.00 JeriK0, 1999
+---End Query
+---Start QueryD
+  <QUERYING A USERS DRIVE TO RETURN A LIST OF FOLDERS>
+
+  You can scan a users hard drive and return a list of ALL
+  their directorys\folders:
+
+  1.> From the Path Browser choose File|Browse Users Directorys.
+  2.> Enter the letter of the drive you want to query.
+  3.> Once the host computer has been scanned, a list of all
+        folders will be returned and listed in the Path Browser.
+
+
+
+                     Help Provider Ver.1.00 JeriK0, 1999
+---End QueryD
+---Start Move
+  <MOVING A FILE ON THE USERS SYSTEM>
+
+  Move a file from any location to any location on a users 
+  System:
+
+  1.> First you must load or query the drive the file you 
+        wish to move resides on.
+  2.> From the Path Browser select the file you wish to move.
+  3.> Click the move button.
+  4.> A dialog will appear asking for the destination of the
+        file.
+  5.> A previously saved Directory PathFile may be loaded at 
+        this time using the load button. When the directory
+        browser has been filled, select the desired path for the
+        file. The destination box on the move dialog will
+        be filled with the path selected and the file name. Click
+        Move, to move the file.     
+  6.> If you opt not to use a preloaded directory PathFile, you
+        must enter the complete path including filename in the 
+        destination box. Then click Move to move the file.  
+
+
+                     Help Provider Ver.1.00 JeriK0, 1999
+---End Move
+---Start Edit
+  <EDITING A FILE ON THE USERS SYSTEM>
+
+  It is possible to edit and save a text file on the users
+  system. This may only be done with an ASCII text file:
+
+  1.> First you must load or query the drive the file you 
+        wish to Edit resides on.
+  2.> From the Path Browser select the file you wish to edit.
+  3.> Click the Edit button.
+  4.> The file will be loaded into a text box for editing.
+  5.> Once you have finished the file can be saved anywhere
+        on the users system.
+
+
+                     Help Provider Ver.1.00 JeriK0, 1999
+---End Edit
+---Start Copy
+  <COPYING A FILE ON THE USERS SYSTEM>
+
+  Copy a file from any location to any location on a users 
+  System:
+
+  1.> First you must load or query the drive the file you 
+        wish to copy resides on.
+  2.> From the Path Browser select the file you wish to copy.
+  3.> Click the Copy button.
+  4.> A dialog will appear asking for the destination of the
+        file.
+  5.> A previously saved Directory PathFile may be loaded at 
+        this time using the load button. When the directory
+        browser has been filled, select the desired path for the
+        file. The destination box on the move dialog will
+        be filled with the path selected and the file name. Click
+        Copy, to copy the file.     
+  6.> If you opt not to use a preloaded directory PathFile, you
+        must enter the complete path including filename in the 
+        destination box. Then click Copy to copy the file.  
+
+
+                     Help Provider Ver.1.00 JeriK0, 1999
+---End Copy
+---Start Delete
+  <DELETING A FILE ON THE USERS SYSTEM>
+
+  It is possible to delete any file on the users system. 
+  Special care must be used when removing files, we 
+  wouldn't want to.... corrupt anything:
+
+  1.> First you must load or query the drive the file you 
+        wish to Delete resides on.
+  2.> From the Path Browser select the file you wish to delete.
+  3.> Click the Delete button.
+  4.> A confirmation dialog will be displayed.
+  5.> On confirm, the file will be removed. Once removed you
+        will be prompted to "Re-Query" the drive for a more
+        accurate file listing. 
+
+
+                     Help Provider Ver.1.00 JeriK0, 1999
+---End Delete
+
+
+
+
+

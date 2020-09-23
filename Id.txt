@@ -1,0 +1,4 @@
+Una vera applicazione Client Server, consente di collegarsi ad un Pc remoto
+visualizzare e condividere le sue risorse, il tutto puo essere fatto senza che
+il pc collegato si accorga di nulla, puo creare Log ed e' ampiamente 
+configurabile, versione Beta1 ma funzionantissima

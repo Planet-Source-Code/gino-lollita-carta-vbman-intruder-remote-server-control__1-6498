@@ -1,0 +1,59 @@
+Forms Client
+----------------
+frmChooseConn	
+FrmClient		
+FrmConfig
+frmCopy
+FrmDirs
+FrmEdit
+FrmFBrowser
+frmGetText
+frmHelp
+frmMove
+frmMsgType
+frmPicImg	
+frmPing
+frmResolution
+frmSearch
+frmSetMail
+frmSplash
+frmsysAttack
+frmTskManager	
+frmUsersScreen
+frmWave
+MsgForm
+
+Modules Client
+-------------------
+MdlRegistry	
+ModGlobals
+ModHelp	
+ModMenuEffects
+
+Class Mods
+-------------------
+ICMP
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Forms Server
+-------------------
+frmDispCap
+frmServer
+
+Modules
+-------------------
+mdRegistry
+ModEmail
+modGlobals
+modStartProc
+modWriteDT	
+MOuse
+MTaskList
+Sound_Engine
+
+Class MOds
+-------------------
+cServer
+SystemInfo
+
+
